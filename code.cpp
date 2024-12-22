@@ -31,6 +31,8 @@ void print()
 }
 
 // Function to calculate the average of an array
+
+
 double average(int arr[], int n)
 {
 	double avg = 0.0;
@@ -115,6 +117,8 @@ void FCFS()
 	cout << "Average response time      : " << average(rt, n) << '\n';
 	cout << "Overall throughtput        : " << Overall_throughtput(m, n) << '\n';
 }
+
+
 
 // SJF Scheduling Algorithm
 void SJF()

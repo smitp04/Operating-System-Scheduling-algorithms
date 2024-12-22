@@ -9,7 +9,7 @@ To run the program, follow these steps:
 1. Clone this repository to your local machine.
 
    ```shell
-   git clone git@github.com:Dhru08/Operating-System-Scheduling-algorithms.git
+   git clone https://github.com/smitp04/Operating-System-Scheduling-algorithms.git
    ```
 
 2. Navigate to the project directory.
